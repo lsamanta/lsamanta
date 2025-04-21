@@ -22,7 +22,7 @@
 ---
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee8eb3b997549f9ba7308ded80d2/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
-- 🎓 Master en Économétrie, Statistiques et Finance à l'<span style="color:#7B68EE;">Université Paris 1 Panthéon-Sorbonne</span>
+- 🎓 Master en Économétrie, Statistiques parcours Modélisations Économiques, Statistiques et Financières | Data Science (MoSEF) l'<span style="color:#7B68EE;">Université Paris 1 Panthéon-Sorbonne</span>
   
 - 📊 Passionnée par la <span style="color:#FF6B6B;">modélisation des risques de crédit</span> et les <span style="color:#4ECDC4;">techniques quantitatives</span>
   
